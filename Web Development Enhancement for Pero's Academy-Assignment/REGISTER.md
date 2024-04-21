@@ -6,24 +6,8 @@ Welcome to the participation register for the Web Development Enhancement Assign
 
 | Student Name          | GitHub Username      | Date Registered  | Date of Submission |
 |-----------------------|----------------------|------------------|--------------------|
-| Brandon Mloyi         |  mloyi               | 14/04/2024       | [Date]             | 
+| Brandon Mloyi         |  mloyi               | 14/04/2024       | [Date]             |
 | [Full Name]           | [GitHub Username]    | [Date]           | [Date]             |
-| [Full Name]           | [GitHub Username]    | [Date]           | [Date]             |
-| [Full Name]           | [GitHub Username]    | [Date]           | [Date]             |
-| [Full Name]           | [GitHub Username]    | [Date]           | [Date]             |
-| [Full Name]           | [GitHub Username]    | [Date]           | [Date]             |
-| [Full Name]           | [GitHub Username]    | [Date]           | [Date]             |
-| [Full Name]           | [GitHub Username]    | [Date]           | [Date]             |
-| [Full Name]           | [GitHub Username]    | [Date]           | [Date]             |
-| [Full Name]           | [GitHub Username]    | [Date]           | [Date]             |
-| [Full Name]           | [GitHub Username]    | [Date]           | [Date]             |
-| [Full Name]           | [GitHub Username]    | [Date]           | [Date]             |
-| [Full Name]           | [GitHub Username]    | [Date]           | [Date]             |
-| [Full Name]           | [GitHub Username]    | [Date]           | [Date]             |
-| [Full Name]           | [GitHub Username]    | [Date]           | [Date]             |
-
-
-Please ensure that you enter your details accurately and update the register promptly upon beginning the assignment.
 
 ---
 
